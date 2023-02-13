@@ -29,7 +29,7 @@ body {
 }
 
 main{
-    width: 60%;
+    width: 70%;
     height: 600px;
     display: flex;
 }
@@ -86,7 +86,7 @@ main{
     word-spacing: 3px;
     line-height: 30px;
     font-size: 1.1rem;
-    width: 95%;
+    width: 92%;
     overflow: hidden;
 }
 
